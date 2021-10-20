@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: reactor_example
+      host: localhost
+      port: 27017
